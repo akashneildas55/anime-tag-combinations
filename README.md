@@ -1,16 +1,14 @@
 # What predicts which anime tags get combined next?
 
-*A personal data project on anime tags: network analysis plus text analysis.
-
-Why I looked at this. I wanted to see whether tags could give a streaming platform such as Crunchyroll a hint about where to commission or license next, meaning which untried combinations might be worth betting on. 
-
-What I found is that tags alone are a weak guide. Popularity explains most of which combinations appear later. Shared neighbours in the tag network and similar story text each add a small signal, but not enough to point at a specific bet with confidence. I did not test whether the combinations that appear actually earn more viewers or money, so that question is still open.
+*A self-directed side project on anime tags, built over a few days out of curiosity and to practise network and text analysis on messy real data. It is deliberately small in scope, and the Limitations section says what it does not cover.*
 
 ## In plain words
 
 [AniList](https://anilist.co) is a website where fans track and rate anime. Every anime there carries **tags**, short labels such as *School*, *Vampire*, *Cooking* or *Time Manipulation*. Many tags sit together all the time. Others have never appeared on the same anime, at least until some year.
 
-This project asks a simple question: **when two tags have never been combined, can we predict which pairs will be combined later?** For example, would the first vampire detective anime have been easy to see coming?
+**Why I looked at this.** I wanted to see whether tags could give a streaming platform such as Crunchyroll a hint about where to commission or license next, meaning which untried combinations might be worth betting on.
+
+This led to a simple question: **when two tags have never been combined, can we predict which pairs will be combined later?** For example, would the first vampire detective anime have been easy to see coming?
 
 To find out, I downloaded about 6,700 anime from 2000 to 2025 and split them into two periods, **2000-2014** and **2015-2025**. I took every pair of tags that was never combined in the first period and checked which pairs were combined in the second. Then I tested three ideas for what predicts it:
 
@@ -18,11 +16,33 @@ To find out, I downloaded about 6,700 anime from 2000 to 2025 and split them int
 2. **Shared neighbours.** Two tags that already appear alongside the same other tags may be easy to combine. This is the *network* idea: tags are points, and two are linked when they share an anime.
 3. **Similar stories.** Two tags whose anime have similar plot summaries may be easy to combine. This is the *text* idea.
 
-**What I found, briefly:** popularity matters most. Shared neighbours and similar stories each add a little on top, but the extra effect is small, and neither one clearly beats the other. The result is a prediction, not an explanation of why studios make these combinations.
+**What I found, briefly:** tags alone are a weak guide. Popularity explains most of which combinations appear later. Shared neighbours in the tag network and similar story text each add a small signal, but not enough to point at a specific bet with confidence, and neither one clearly beats the other. The result is a prediction, not an explanation of why studios make these combinations.
 
-**Who might care:** anyone interested in how popular culture mixes ideas, and, in principle, anyone choosing what to make or recommend. This project does not test whether combining a new pair of tags makes an anime more successful.
+**What I did not test:** whether the combinations that appear actually earn more viewers or money. That question is still open, and it is the step a real business decision would depend on.
+
+**Who might care:** anyone interested in how popular culture mixes ideas, and, in principle, anyone choosing what to make or recommend.
 
 The rest of this page gives the numbers, how to reproduce them, and the limits of the analysis.
+
+## How to read the pictures
+
+**A tag network** is just a map. Each dot is a tag. Two dots are joined by a line when many anime carry both tags. Dots that sit close together and share the same colour form a *community*: tags that tend to travel together.
+
+![Tag network, 2000-2014](figures/network_era1.png)
+*Tags in 2000-2014. Each dot is a tag, each line means the two tags often appear on the same anime, and colours mark groups of tags that cluster together.*
+
+![Tag network, 2015-2025](figures/network_era2.png)
+*The same map for 2015-2025. More tags are used per anime, so the map is denser.*
+
+**The main test.** I sorted the tag pairs that had never been combined by how likely each predictor thought they were to be combined later, then checked how many really were.
+
+![Share of pairs combined later, by predictor score](figures/fill_by_decile.png)
+*Pairs ranked higher by a predictor were combined later more often. This is why popularity, shared neighbours and story text all carry some signal.*
+
+**Is it just chance?** To check, I scrambled the data many times and measured the same thing each time.
+
+![Real result against shuffled results](figures/null_tests.png)
+*The real result sits outside what the shuffled data usually produces, so chance alone is an unlikely explanation.*
 
 ## Main findings
 
@@ -99,10 +119,11 @@ labels/                    the 60-pair hand-labelling sample
 
 - **One source and one selection.** AniList only, and only the 300 most popular anime per year (all of them before about 2012, when fewer than 300 qualify). Tags are assigned by today's community, so older anime may be tagged less thoroughly: 6.7 tags per anime in 2000-2014 against 9.4 in 2015-2025. The top-6-tags robustness run narrows this difference (4.2 against 5.2) without removing it.
 - **Prediction, not cause.** The analysis shows what predicts new combinations, not why they happen.
+- **Appearing is not earning.** The project does not test whether a new combination brings more viewers or revenue, so it cannot say where a platform should spend money.
 - **Many tests.** About ten p-values were computed. The baseline synopsis result (p = 0.016) is the weakest.
 - **Hand labels were inconclusive.** One labeller, blind to group and outcome, 60 pairs (20 per group), 83% judged plausible. The differences between groups are within chance (Fisher exact p = 0.70 and 0.41).
 - **Sequels.** Seasons of one franchise share character names and can inflate the synopsis similarity. The data has no franchise links to remove them.
-- **Not done:** sentence embeddings as a second text method (optional step above), manga as an earlier signal, a combined model of all three predictors, and whether filling a gap pays off in popularity or score.
+- **Not done:** sentence embeddings as a second text method (optional step above), manga as an earlier signal, a combined model of all three predictors, and whether filling a gap pays off in popularity or score. That last one is the natural next step for the business question.
 
 ## Glossary
 
