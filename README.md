@@ -1,6 +1,6 @@
 # What predicts which anime tags get combined next?
 
-*A personal data project on anime tags: network analysis plus text analysis, built as a portfolio piece.*
+*A personal data project on anime tags: network analysis plus text analysis.
 
 ## In plain words
 
