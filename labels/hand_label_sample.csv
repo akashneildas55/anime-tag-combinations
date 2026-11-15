@@ -1,0 +1,61 @@
+pair_id,tag_a,description_a,tag_b,description_b,plausible_1_or_0
+1,Artificial Intelligence,Intelligent non-organic machines that work and react similarly to humans.,Butler,Prominently features a character who is a butler.,1
+2,Medieval,Partially or completely set in the Middle Ages or a Middle Ages-inspired setting. Commonly features elements such as European castles and knights.,Proxy Battle,"A proxy battle is a battle where humans use creatures/robots to do the fighting for them, either by commanding those creatures/robots or by simply evolving them/changing them into battle mode.",1
+3,Age Regression,Prominently features a character who was returned to a younger state.,Dystopian,"Partly or completely set in a society characterized by poverty, squalor or oppression.",1
+4,Detective,Features a character who investigates and solves crimes.,Drawing,"Centers around the art of drawing, including manga and doujinshi.",1
+5,Artificial Intelligence,Intelligent non-organic machines that work and react similarly to humans.,Ghost,Prominently features a character who is a ghost.,0
+6,Anti-Hero,Features a protagonist who lacks conventional heroic attributes and may be considered a borderline villain.,Iyashikei,Primary aim is to heal the audience through serene depictions of characters' daily lives.,1
+7,Athletics,"Centers around sporting events that involve competitive running, jumping, throwing, or walking.",Incest,Features sexual or romantic relations between characters who are related by blood.,1
+8,Amnesia,Prominently features a character(s) with memory loss.,Astronomy,"Relating or centered around the study of celestial objects and phenomena, space, or the universe.",1
+9,Aviation,Regarding the flying or operation of aircraft.,Video Games,Centers around characters playing video games.,1
+10,Robots,Prominently features humanoid machines.,Time Skip,Features a gap in time used to advance the story.,1
+11,Robots,Prominently features humanoid machines.,Youkai,Prominently features supernatural creatures from Japanese folklore.,0
+12,Male Harem,Main cast features the protagonist plus several male characters who are romantically interested in them.,Time Manipulation,Prominently features time-traveling or other time-warping phenomena.,1
+13,Josei,Target demographic is adult females.,Psychosexual,Work that involves the psychological aspects of sexual impulses.,1
+14,Teacher,"Protagonist is an educator, usually in a school setting.",Trains,Prominently features trains.,1
+15,Advertisement,Produced in order to promote the products of a certain company.,Witch,Prominently features a character who is a witch.,0
+16,Gender Bending,"Prominently features a character who dresses and behaves in a way characteristic of another gender, or has been transformed into a person of another gender.",Tanned Skin,Prominently features characters with tanned skin.,1
+17,Alternate Universe,Features multiple alternate universes in the same series.,Cute Boys Doing Cute Things,"Centers around male characters doing cute activities, usually with little to no emphasis on drama and conflict.",1
+18,Anachronism,"Prominently features elements that are out of place in the historical period the work takes place in, particularly modern elements in a historical setting.",Chuunibyou,"Prominently features a character with ""Middle School 2nd Year Syndrome"", who either acts like a know-it-all adult or falsely believes they have special powers.",0
+19,Coastal,Story prominently takes place near the beach or around a coastal area/town. Setting is near the ocean.,Creature Taming,"Features the taming of animals, monsters, or other creatures.",1
+20,Medieval,Partially or completely set in the Middle Ages or a Middle Ages-inspired setting. Commonly features elements such as European castles and knights.,Psychosexual,Work that involves the psychological aspects of sexual impulses.,0
+21,Nun,Prominently features a character who is a nun.,School Club,Partly or completely set in a school club scene.,1
+22,Otaku Culture,Centers around the culture of a fanatical fan-base.,Trains,Prominently features trains.,1
+23,Creature Taming,"Features the taming of animals, monsters, or other creatures.",Stop Motion,Animation style characterized by physical objects being moved incrementally between frames to create the illusion of movement.,1
+24,Memory Manipulation,Prominently features a character(s) who has had their memories altered.,Royal Affairs,"Features nobility, alliances, arranged marriage, succession disputes, religious orders and other elements of royal politics.",1
+25,Boys' Love,"Prominently features romance between two males, not inherently sexual.",Trains,Prominently features trains.,1
+26,Chuunibyou,"Prominently features a character with ""Middle School 2nd Year Syndrome"", who either acts like a know-it-all adult or falsely believes they have special powers.",No Dialogue,This work contains no dialogue.,1
+27,Band,Main cast is a group of musicians.,Lost Civilization,Featuring a civilization with few ruins or records that exist in present day knowledge.,0
+28,Crossover,"Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",Fashion,Centers around the fashion industry.,1
+29,Cute Boys Doing Cute Things,"Centers around male characters doing cute activities, usually with little to no emphasis on drama and conflict.",Psychosexual,Work that involves the psychological aspects of sexual impulses.,1
+30,Real Robot,Prominently features mechanical designs loosely influenced by real-world robotics.,Tokusatsu,Prominently features elements that resemble special effects in Japanese live-action shows,1
+31,Drawing,"Centers around the art of drawing, including manga and doujinshi.",Psychosexual,Work that involves the psychological aspects of sexual impulses.,1
+32,Anthropomorphism,Contains non-human character(s) that have attributes or characteristics of a human being.,Chibi,"Features ""super deformed"" character designs with smaller, rounder proportions and a cute look.",1
+33,Hikikomori,"Prominently features a character who withdraws from social life, often seeking extreme isolation.",Monster Girl,Prominently features a female character who is part-monster.,1
+34,Class Struggle,Contains conflict born between the different social classes. Generally between an dominant elite and a suffering oppressed group.,Kaiju,Prominently features giant monsters.,0
+35,Ojou-sama,"Features a wealthy, high-class, oftentimes stuck up and demanding female character.",Philosophy,"Relating or devoted to the study of the fundamental nature of knowledge, reality, and existence.",1
+36,College,Partly or completely set in a college or university.,Spearplay,Prominently features the use of spears in combat.,1
+37,Kemonomimi,Prominently features humanoid characters with animal ears.,Trains,Prominently features trains.,0
+38,Age Regression,Prominently features a character who was returned to a younger state.,Denpa,"Works that feature themes of social dissociation, delusions, and other issues like suicide, bullying, self-isolation, paranoia, and technological necessity in daily lives. Classic iconography: telephone poles, rooftops, and trains.",1
+39,Battle Royale,"Centers around a fierce group competition, often violent and with only one winner.",Trains,Prominently features trains.,1
+40,Bullying,"Prominently features the use of force for intimidation, often in a school setting.",Cute Boys Doing Cute Things,"Centers around male characters doing cute activities, usually with little to no emphasis on drama and conflict.",1
+41,Boarding School,Features characters attending a boarding school.,Mixed Media,"Features a combination of different media and animation techniques. Often seen with puppetry, textiles, live action footage, stop motion, and more. This does not include works with normal usage of CGI in their production.",1
+42,Fairy Tale,"This work tells a fairy tale, centers around fairy tales, or is based on a classic fairy tale.",Ships,Prominently features the use of sea-based transportation vessels.,1
+43,Proxy Battle,"A proxy battle is a battle where humans use creatures/robots to do the fighting for them, either by commanding those creatures/robots or by simply evolving them/changing them into battle mode.",Reincarnation,"Features a character being born again after death, typically as another person or in another world.",1
+44,LGBTQ+ Themes,"Prominently features characters or themes associated with the LGBTQ+ community, such as sexuality or gender identity.",Police,Centers around the life and activities of law enforcement officers.,1
+45,Chuunibyou,"Prominently features a character with ""Middle School 2nd Year Syndrome"", who either acts like a know-it-all adult or falsely believes they have special powers.",Terrorism,Centers around the activities of a terrorist or terrorist organization.,1
+46,Age Gap,Prominently features romantic relations between people with a significant age difference.,Virtual World,Partly or completely set in the world inside a video game.,1
+47,Cars,Centers around the use of automotive vehicles.,Idol,Centers around the life and activities of an idol.,1
+48,Bar,Partly or completely set in a bar.,Dinosaurs,"Prominently features Dinosaurs, prehistoric reptiles that went extinct millions of years ago.",0
+49,Gore,Prominently features graphic bloodshed and violence.,Iyashikei,Primary aim is to heal the audience through serene depictions of characters' daily lives.,1
+50,Acting,Centers around actors or the acting industry.,Aviation,Regarding the flying or operation of aircraft.,1
+51,Adoption,Features a character who has been adopted by someone who is neither of their biological parents.,Elf,Prominently features a character who is an elf.,1
+52,Astronomy,"Relating or centered around the study of celestial objects and phenomena, space, or the universe.",Cohabitation,Features two or more people who live in the same household and develop a romantic or sexual relationship.,1
+53,Idol,Centers around the life and activities of an idol.,Motorcycles,Prominently features the use of motorcycles.,1
+54,Anthropomorphism,Contains non-human character(s) that have attributes or characteristics of a human being.,Post-Apocalyptic,Partly or completely set in a world or civilization after a global disaster.,1
+55,Trains,Prominently features trains.,Video Games,Centers around characters playing video games.,1
+56,Card Battle,Centers around individuals competing in card games.,Kuudere,"Prominently features a character who generally retains a cold, blunt and cynical exterior, but once one gets to know them, they have a very warm and loving interior.",1
+57,Fairy Tale,"This work tells a fairy tale, centers around fairy tales, or is based on a classic fairy tale.",Motorcycles,Prominently features the use of motorcycles.,0
+58,Aviation,Regarding the flying or operation of aircraft.,Cyberpunk,Set in a future of advanced technological and scientific achievements that have resulted in social disorder.,1
+59,Bisexual,Features a character who is romantically or sexually attracted to people of more than one sex or gender.,Memory Manipulation,Prominently features a character(s) who has had their memories altered.,1
+60,Elf,Prominently features a character who is an elf.,Pandemic,Prominently features a disease prevalent over a whole country or the world.,1

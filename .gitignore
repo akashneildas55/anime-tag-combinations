@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/raw/anime.jsonl
+data/raw/done_years.txt

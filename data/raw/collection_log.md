@@ -1,0 +1,3 @@
+- 2026-11-15 19:08 UTC: Downloaded tag collection from https://graphql.anilist.co: 430 tags, 24 categories.
+- 2026-11-15 19:15 UTC: Downloaded anime 2000-2025, top 300 per year by popularity (JP origin, non-adult, formats TV/MOVIE/OVA/ONA), pause 2.2s between requests, 6741 new records this run.
+- 2026-11-15 19:15 UTC: Report: 6717 anime, 375 tags used, 220 candidate tags, 9200 unlinked pairs in era 1, 1214 filled in era 2 (>=3 anime). Verdict: OK - enough filled pairs to test the question.

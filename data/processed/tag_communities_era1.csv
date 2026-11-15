@@ -1,0 +1,220 @@
+tag,community,category,n_anime,betweenness
+Achronological Order,2,Setting-Time,54,0.0001
+Acting,0,Theme-Arts,36,0.0000
+Adoption,0,Theme-Other,24,0.0000
+Advertisement,0,Technical,25,0.0000
+Afterlife,0,Setting-Universe,26,0.0000
+Age Gap,0,Theme-Romance,67,0.0000
+Age Regression,2,Cast-Traits,40,0.0000
+Agriculture,0,Theme-Slice of Life,15,0.0000
+Aliens,3,Cast-Traits,180,0.0004
+Alternate Universe,2,Setting-Universe,51,0.0000
+Amnesia,2,Cast-Traits,81,0.0000
+Anachronism,2,Setting-Time,32,0.0000
+Angels,0,Cast-Traits,33,0.0000
+Animals,1,Theme-Other,198,0.0076
+Anthology,0,Technical,18,0.0000
+Anthropomorphism,1,Cast-Traits,70,0.0002
+Anti-Hero,2,Cast-Main Cast,111,0.0003
+Archery,1,Theme-Action,31,0.0000
+Artificial Intelligence,2,Cast-Traits,100,0.0001
+Assassins,2,Theme-Other-Organisations,52,0.0000
+Astronomy,2,Theme-Other,20,0.0000
+Athletics,2,Theme-Game-Sport,15,0.0000
+Aviation,3,Theme-Other-Vehicle,42,0.0000
+Band,0,Theme-Arts-Music,31,0.0000
+Bar,2,Setting-Scene,15,0.0000
+Baseball,2,Theme-Game-Sport,32,0.0000
+Basketball,0,Theme-Game-Sport,17,0.0000
+Battle Royale,2,Theme-Action,39,0.0000
+Bisexual,0,Cast-Traits,25,0.0000
+Boarding School,0,Setting-Scene,25,0.0000
+Body Horror,2,Theme-Other,55,0.0000
+Boys' Love,2,Theme-Romance,58,0.0001
+Bullying,0,Theme-Drama,70,0.0000
+Butler,0,Cast-Traits,31,0.0001
+CGI,3,Technical,215,0.0031
+Card Battle,2,Theme-Game-Card & Board Game,59,0.0000
+Cars,2,Theme-Other-Vehicle,44,0.0000
+Chibi,0,Theme-Other,70,0.0000
+Chuunibyou,0,Cast-Traits,33,0.0000
+Class Struggle,0,Theme-Drama,22,0.0000
+Classic Literature,0,Theme-Arts,35,0.0000
+Coastal,1,Setting-Scene,58,0.0000
+Cohabitation,0,Theme-Romance,24,0.0000
+College,2,Setting-Scene,27,0.0000
+Coming of Age,0,Theme-Drama,255,0.0035
+Conspiracy,3,Theme-Drama,47,0.0000
+Cosmic Horror,3,Theme-Other,31,0.0000
+Cosplay,2,Cast-Traits,17,0.0000
+Creature Taming,1,Theme-Other,20,0.0000
+Crime,2,Theme-Other,102,0.0016
+Crossdressing,0,Cast-Traits,50,0.0003
+Crossover,1,Theme-Other,28,0.0000
+Cult,2,Theme-Other-Organisations,21,0.0000
+Curses,2,Theme-Fantasy,20,0.0000
+Cute Boys Doing Cute Things,2,Theme-Slice of Life,38,0.0001
+Cute Girls Doing Cute Things,1,Theme-Slice of Life,186,0.0008
+Cyberpunk,2,Theme-Sci-Fi,59,0.0001
+Cyborg,2,Cast-Traits,31,0.0000
+Dancing,1,Theme-Arts-Music,31,0.0000
+Death Game,2,Theme-Other,26,0.0000
+Delinquents,2,Cast-Traits,36,0.0000
+Demons,2,Cast-Traits,156,0.0003
+Denpa,2,Theme-Other,61,0.0000
+Desert,2,Setting-Scene,25,0.0000
+Detective,2,Cast-Traits,97,0.0003
+Dinosaurs,1,Cast-Traits,16,0.0000
+Disability,2,Cast-Traits,35,0.0000
+Dissociative Identities,2,Cast-Traits,40,0.0000
+Dragons,2,Cast-Traits,59,0.0003
+Drawing,0,Theme-Arts,37,0.0000
+Dystopian,3,Setting-Time,72,0.0002
+Educational,0,Theme-Other,31,0.0000
+Elf,1,Cast-Traits,16,0.0000
+Ensemble Cast,3,Cast-Main Cast,392,0.0432
+Environmental,0,Theme-Other,51,0.0001
+Episodic,0,Technical,251,0.0089
+Espionage,2,Theme-Action,18,0.0000
+Fairy,1,Cast-Traits,52,0.0001
+Fairy Tale,1,Theme-Fantasy,34,0.0000
+Family Life,0,Theme-Slice of Life,115,0.0005
+Fashion,1,Theme-Arts,25,0.0000
+Female Harem,0,Theme-Romance,288,0.0017
+Female Protagonist,0,Cast-Main Cast,985,0.2625
+Femboy,0,Cast-Traits,21,0.0000
+Food,0,Theme-Arts,67,0.0000
+Football,2,Theme-Game-Sport,26,0.0000
+Foreign,2,Setting-Scene,179,0.0012
+Found Family,0,Theme-Other,77,0.0001
+Fugitive,2,Theme-Action,55,0.0000
+Full CGI,3,Technical,96,0.0004
+Gambling,2,Theme-Other,17,0.0000
+Gangs,2,Theme-Other-Organisations,30,0.0000
+Gender Bending,0,Theme-Other,32,0.0000
+Ghost,2,Cast-Traits,57,0.0000
+Gods,2,Cast-Traits,104,0.0001
+Gore,2,Theme-Other,157,0.0018
+Guns,2,Theme-Action,225,0.0062
+Henshin,1,Theme-Fantasy,228,0.0059
+Heterosexual,0,Theme-Romance,460,0.0252
+Hikikomori,0,Cast-Traits,25,0.0000
+Historical,2,Setting-Time,255,0.0047
+Idol,1,Cast-Traits,105,0.0003
+Incest,0,Theme-Romance,22,0.0000
+Interspecies,0,Theme-Romance,22,0.0000
+Isekai,1,Theme-Fantasy,131,0.0002
+Iyashikei,0,Theme-Slice of Life,77,0.0001
+Josei,0,Demographic,44,0.0000
+Kaiju,3,Theme-Fantasy,47,0.0001
+Kemonomimi,0,Cast-Traits,78,0.0000
+Kids,1,Demographic,335,0.0093
+Kuudere,0,Cast-Traits,294,0.0032
+LGBTQ+ Themes,0,Theme-Other,85,0.0004
+Language Barrier,0,Theme-Other,18,0.0000
+Lost Civilization,3,Theme-Other,36,0.0000
+Love Triangle,0,Theme-Romance,158,0.0001
+Mafia,2,Theme-Other-Organisations,28,0.0000
+Magic,1,Theme-Fantasy,470,0.0191
+Maids,0,Cast-Traits,60,0.0000
+Male Harem,0,Theme-Romance,49,0.0000
+Male Protagonist,2,Cast-Main Cast,1074,0.3180
+Martial Arts,2,Theme-Action,90,0.0000
+Medicine,0,Theme-Other,24,0.0000
+Medieval,2,Setting-Time,23,0.0000
+Memory Manipulation,0,Theme-Other,23,0.0000
+Meta,0,Theme-Other,121,0.0001
+Military,3,Theme-Other-Organisations,271,0.0019
+Mixed Media,2,Technical,19,0.0000
+Monster Girl,0,Cast-Traits,51,0.0000
+Motorcycles,2,Theme-Other-Vehicle,24,0.0000
+Musical Theater,1,Theme-Arts-Music,31,0.0000
+Mythology,2,Theme-Fantasy,106,0.0001
+Nekomimi,0,Cast-Traits,44,0.0000
+Ninja,2,Cast-Traits,51,0.0000
+No Dialogue,3,Technical,32,0.0001
+Noir,2,Theme-Other,28,0.0000
+Nudity,0,Cast-Traits,278,0.0019
+Nun,2,Cast-Traits,19,0.0000
+Ojou-sama,0,Cast-Traits,59,0.0001
+Orphan,2,Cast-Traits,53,0.0000
+Otaku Culture,0,Theme-Other,67,0.0005
+Outdoor Activities,0,Setting-Scene,34,0.0000
+Pandemic,2,Theme-Other,17,0.0000
+Parenthood,0,Theme-Slice of Life,17,0.0000
+Parody,0,Theme-Comedy,245,0.0012
+Philosophy,2,Theme-Other,201,0.0025
+Photography,0,Theme-Arts,18,0.0000
+Pirates,2,Cast-Traits,40,0.0000
+Police,2,Theme-Other-Organisations,128,0.0003
+Politics,3,Theme-Other,115,0.0003
+Post-Apocalyptic,3,Setting-Universe,94,0.0003
+Primarily Adult Cast,2,Cast-Main Cast,328,0.0144
+Primarily Animal Cast,1,Cast-Main Cast,22,0.0000
+Primarily Child Cast,1,Cast-Main Cast,176,0.0036
+Primarily Female Cast,0,Cast-Main Cast,569,0.0383
+Primarily Male Cast,2,Cast-Main Cast,276,0.0026
+Primarily Teen Cast,0,Cast-Main Cast,301,0.0067
+Proxy Battle,1,Theme-Other,58,0.0007
+Psychosexual,0,Theme-Other,22,0.0000
+Real Robot,3,Theme-Sci-Fi-Mecha,126,0.0001
+Rehabilitation,0,Theme-Drama,26,0.0000
+Reincarnation,2,Theme-Other,23,0.0000
+Religion,2,Theme-Other,42,0.0000
+Revenge,2,Theme-Drama,74,0.0000
+Robots,3,Cast-Traits,179,0.0007
+Royal Affairs,2,Theme-Other,18,0.0000
+Rural,0,Setting-Scene,151,0.0013
+Samurai,2,Cast-Traits,67,0.0001
+Satire,0,Theme-Comedy,32,0.0000
+School,0,Setting-Scene,760,0.0752
+School Club,0,Setting-Scene,186,0.0004
+Seinen,2,Demographic,279,0.0024
+Shapeshifting,2,Theme-Fantasy,46,0.0000
+Ships,3,Theme-Other-Vehicle,54,0.0001
+Shoujo,0,Demographic,129,0.0003
+Shounen,2,Demographic,545,0.0178
+Shrine Maiden,0,Cast-Traits,29,0.0000
+Slapstick,0,Theme-Comedy,155,0.0001
+Slavery,2,Theme-Other,17,0.0000
+Snowscape,0,Setting-Scene,31,0.0001
+Space,3,Setting-Universe,165,0.0003
+Space Opera,3,Theme-Sci-Fi,33,0.0000
+Spearplay,2,Theme-Action,27,0.0000
+Steampunk,2,Theme-Fantasy,30,0.0000
+Stop Motion,2,Technical,24,0.0000
+Super Power,2,Theme-Fantasy,401,0.0133
+Super Robot,3,Theme-Sci-Fi-Mecha,104,0.0001
+Superhero,1,Theme-Fantasy,81,0.0000
+Surreal Comedy,0,Theme-Comedy,167,0.0005
+Survival,2,Theme-Other,44,0.0001
+Swimming,0,Theme-Game-Sport,16,0.0000
+Swordplay,2,Theme-Action,236,0.0035
+Tanned Skin,3,Cast-Traits,41,0.0000
+Teacher,0,Cast-Traits,52,0.0000
+Tennis,2,Theme-Game-Sport,15,0.0000
+Terrorism,2,Theme-Other,53,0.0000
+Time Manipulation,2,Theme-Sci-Fi,62,0.0000
+Time Skip,0,Setting-Time,40,0.0000
+Tokusatsu,1,Theme-Sci-Fi,51,0.0000
+Tomboy,0,Cast-Traits,88,0.0000
+Tragedy,2,Theme-Drama,103,0.0000
+Trains,2,Theme-Other-Vehicle,33,0.0000
+Travel,2,Theme-Other,109,0.0002
+Tsundere,0,Cast-Traits,200,0.0002
+Twins,0,Cast-Traits,69,0.0000
+Unrequited Love,0,Theme-Romance,48,0.0000
+Urban,2,Setting-Scene,288,0.0174
+Urban Fantasy,2,Setting-Universe,351,0.0294
+Vampire,0,Cast-Traits,55,0.0001
+Video Games,0,Theme-Game,45,0.0000
+Virtual World,1,Setting-Universe,48,0.0001
+War,3,Theme-Other,180,0.0007
+Witch,1,Cast-Traits,49,0.0000
+Work,0,Setting-Scene,131,0.0003
+Writing,0,Theme-Arts,15,0.0000
+Yakuza,2,Theme-Other-Organisations,16,0.0000
+Yandere,0,Cast-Traits,25,0.0000
+Youkai,2,Theme-Fantasy,83,0.0003
+Yuri,0,Theme-Romance,71,0.0001
+Zombie,2,Cast-Traits,24,0.0000
