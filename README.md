@@ -1,6 +1,7 @@
 # What predicts which anime tags get combined next?
 
 *A personal data project on anime tags: network analysis plus text analysis.
+Why I looked at this. I wanted to see whether tags could give a streaming platform such as Crunchyroll a hint about where to commission or license next, meaning which untried combinations might be worth betting on. What I found is that tags alone are a weak guide. Popularity explains most of which combinations appear later. Shared neighbours in the tag network and similar story text each add a small signal, but not enough to point at a specific bet with confidence. I did not test whether the combinations that appear actually earn more viewers or money, so that question is still open.
 
 ## In plain words
 
