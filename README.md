@@ -25,14 +25,25 @@ To find out, I downloaded about 6,700 anime from 2000 to 2025 and split them int
 The rest of this page gives the numbers, how to reproduce them, and the limits of the analysis.
 
 ## How to read the pictures
+## How to read the pictures
 
 **A tag network** is just a map. Each dot is a tag. Two dots are joined by a line when many anime carry both tags. Dots that sit close together and share the same colour form a *community*: tags that tend to travel together.
 
-![Tag network, 2000-2014](figures/network_era1.png)
-*Tags in 2000-2014. Each dot is a tag, each line means the two tags often appear on the same anime, and colours mark groups of tags that cluster together.*
+<table>
+  <tr>
+    <td align="center"><img src="figures/network_era1.png" width="400" alt="Tag network, 2000-2014"><br><sub>2000-2014</sub></td>
+    <td align="center"><img src="figures/network_era2.png" width="400" alt="Tag network, 2015-2025"><br><sub>2015-2025: more tags per anime, so the map is denser</sub></td>
+  </tr>
+</table>
 
-![Tag network, 2015-2025](figures/network_era2.png)
-*The same map for 2015-2025. More tags are used per anime, so the map is denser.*
+**The main test.** I sorted the tag pairs that had never been combined by how likely each predictor thought they were to be combined later, then checked how many really were. **Is it just chance?** To check, I scrambled the data many times and measured the same thing each time.
+
+<table>
+  <tr>
+    <td align="center"><img src="figures/fill_by_decile.png" width="400" alt="Share of pairs combined later, by predictor score"><br><sub>Pairs ranked higher by a predictor were combined later more often.</sub></td>
+    <td align="center"><img src="figures/null_tests.png" width="400" alt="Real result against shuffled results"><br><sub>The real result sits outside what shuffled data usually produces.</sub></td>
+  </tr>
+</table>
 
 **The main test.** I sorted the tag pairs that had never been combined by how likely each predictor thought they were to be combined later, then checked how many really were.
 
